@@ -1,0 +1,16 @@
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\FoxClicker.exe.config
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\FoxClicker.exe
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\FoxClicker.pdb
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.csproj.AssemblyReference.cache
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.Form1.resources
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.Properties.Resources.resources
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.csproj.GenerateResource.cache
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.csproj.CoreCompileInputs.cache
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.exe
+E:\Collage\VS\FoxClicker\FoxClicker\obj\Debug\FoxClicker.pdb
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Auth0.Core.dll
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Auth0.ManagementApi.dll
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Newtonsoft.Json.dll
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Auth0.Core.xml
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Auth0.ManagementApi.xml
+E:\Collage\VS\FoxClicker\FoxClicker\bin\Debug\Newtonsoft.Json.xml
